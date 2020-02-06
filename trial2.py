@@ -148,5 +148,5 @@ if __name__ =="__main__":
 
 	root = tk.Tk()
 	ttk.Style(root).theme_use('alt')
-	app = Replica(root)
+	app = Triplica(root)
 	root.mainloop()
